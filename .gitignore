@@ -1,0 +1,19 @@
+# Only the compatibility source and documentation belong in this repo.
+*.exe
+*.dll
+*.zip
+*.rar
+*.sav
+*.m3d
+*.GSC
+*.gsc
+*.dmp
+*.log
+*.bak
+Save/
+Screenshots/
+prefix/
+pfx/
+mode.dat
+lock.report
+__pycache__/
