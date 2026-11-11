@@ -28,6 +28,29 @@ Please visit their site and consider
 This repository contributes only Linux compatibility work; it does not claim
 authorship of the mod or permission to relicense its content.
 
+### 致模组制作团队的感谢信
+
+尊敬的 shiunghanching 及征服美洲中文站、《黄金版》《东亚崛起》制作团队的各位成员：
+
+你们好！
+
+作为一名在 Linux 上游玩《征服美洲：黄金版》的玩家，我想向你们致以诚挚的感谢。
+感谢你们为这款游戏投入的时间、心血与创造力，也感谢参与内容制作、AI 编程、
+战役设计、测试和文本工作的每一位成员。你们带来的新势力、新战役与丰富内容，
+让玩家能够继续探索和享受这款经典游戏。
+
+这个小项目只是我为 Linux 游玩环境整理的兼容脚本、配置与针对已知崩溃的补丁工具，
+并不是游戏或模组的官方移植，也不代表贵团队。模组的创作功劳属于你们；
+本仓库的 MIT 许可仅适用于这里的兼容工具及相关文档，不适用于游戏或模组内容，
+也不授予任何使用、修改或再分发你们素材的额外权利。
+
+谢谢你们的付出与分享，也谢谢你们维护网站、凝聚玩家社区。
+希望这份小小的兼容工作，能让更多使用 Linux 的玩家有机会欣赏你们的成果。
+在此向全体制作人员与贡献者致敬，祝大家生活顺遂，创作愉快！
+
+一位心怀感谢的玩家  
+Şeref Çimen
+
 ## What this fixes
 
 - Black-screen/rendering problems: Proton's 1920×1080 virtual desktop with
