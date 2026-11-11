@@ -51,6 +51,33 @@ authorship of the mod or permission to relicense its content.
 一位心怀感谢的玩家  
 Şeref Çimen
 
+#### A letter to the team (English)
+
+Dear shiunghanching and all members of the American Conquest China,
+Gold Edition, and Rise of East Asia teams,
+
+Thank you for all the time and care you have devoted to the American Conquest
+community, and for your work on the game, tools, and resources.
+
+I’m a Linux user, and I’ve recently been working on getting the game package
+available on your website running on Linux. I would be grateful for the
+opportunity to share my setup with you, and would greatly appreciate any
+feedback you might have. I hope this work could also be useful to other
+Linux players.
+
+Project link: [American Conquest Linux compatibility](https://github.com/seros-cimenstein/american-conquest-linux-compat)
+
+This is an unofficial compatibility project, not a native Linux port or a
+distribution of the game or mod. All credit for the mod belongs to your team.
+
+I hope you don’t mind me reaching out. Would this be an appropriate place to
+share it, or is there someone else I should contact?
+
+Thank you for your time, and best wishes!
+
+A grateful player,  
+Şeref Çimen
+
 ## What this fixes
 
 - Black-screen/rendering problems: Proton's 1920×1080 virtual desktop with
