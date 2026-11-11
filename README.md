@@ -7,6 +7,27 @@ This is a community compatibility project, **not a native Linux port or a game
 distribution**. You must supply your own legally obtained game installation.
 No game executable, assets, saves, third-party DLLs, or Wine prefix is included.
 
+## Respect to the mod creators
+
+**Gold Edition and Rise of East Asia are the work of the
+[American Conquest China team](https://www.americanconquest.info/), not this
+Linux compatibility project.** Thank you for creating and sharing the mod.
+
+Their [Gold Edition page and original credits](https://www.americanconquest.info/gold.html)
+credit:
+
+- **shiunghanching** — project lead, mod content, mission design, and text.
+- **LIN** — AI programming.
+- **Adore zhuo** and **Mr.吳** — mission design, alongside shiunghanching.
+- **Mr.吳, Adore zhuo, 呕买浪, 土著女爵, and naochu** — testing.
+- **A.Soldier** — text, alongside shiunghanching.
+- The additional contributors and special thanks listed on their original page.
+
+Please visit their site and consider
+[supporting the creators and website](https://www.americanconquest.info/contact.html#donate).
+This repository contributes only Linux compatibility work; it does not claim
+authorship of the mod or permission to relicense its content.
+
 ## What this fixes
 
 - Black-screen/rendering problems: Proton's 1920×1080 virtual desktop with
